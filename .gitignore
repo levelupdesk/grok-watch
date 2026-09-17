@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.pytest_cache/
+.ruff_cache/
+.DS_Store
+*.xcuserstate
+DerivedData/
+
+*.egg-info/
+.venv/
+.pytest_cache/
+__pycache__/
